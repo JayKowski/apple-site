@@ -17,10 +17,8 @@ body {
 }
 
 main {
-  max-width: 1440px;
-  min-width: 1250px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+  margin-left: 0;
 }
 
 .row {
@@ -81,7 +79,7 @@ nav {
 }
 
 .hero {
-  width: 1440px;
+  width: 100%;
   height: 630px;
   align-items: center;
   background: url(../images/your_verse_hero.jpg) 50% 100% no-repeat;
@@ -174,7 +172,7 @@ nav {
 /* 3 Content Section */
 
 .promos {
-  width: 1440px;
+  width: 100%;
 }
 
 .promos img {
