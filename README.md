@@ -19,7 +19,7 @@ it was built by <a href="https://github.com/JayKowski">Judah Maina</a>.
 
 ## live preview
 Here below is a link to the project's live demo, rather, expected functionality after deployment:
-[apple-clone] (https://raw.githack.com/JayKowski/old-apple-website/development/index.html)
+[apple-clone](https://raw.githack.com/JayKowski/apple-site/apple-site/index.html)
 
 ## Status
 The project is complete as uploaded.
